@@ -1,0 +1,54 @@
+body {
+    background-image: url(../img/UZKEjzG.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-family: 'Indie Flower';
+    font-weight: bold;
+    height: 100%;
+    font-size: 20px;
+}
+
+h1 {
+    margin-top: 4%;
+    font-size: 45px;
+}
+
+
+label{
+    display: none;
+  }
+  
+  input {
+    border: 1px solid white;
+    border-radius: 0.2em;
+  }
+
+#search-keyword {
+    width: 20%;
+    height: 30px;
+    text-align: center;
+  
+  }
+
+  #submit-btn {
+    width: 10%;
+    height: 35px;
+    background-color: palevioletred;
+    color: white;
+  }
+  
+  #response-container {
+    border: 3px solid white;
+    border-radius: 3em;
+    width: 28%;
+    margin-left: 33%;
+    padding-bottom: 6%;
+    display: none;
+    height: 250px;
+  }
+  
+  li {
+    list-style: none;
+   
+  }
